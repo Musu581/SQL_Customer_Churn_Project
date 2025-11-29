@@ -1,4 +1,4 @@
-#SQL Customer Churn Analysis Project
+# SQL Customer Churn Analysis Project
 
 A simple SQL project that analyzes customer churn using MySQL by studying customer behavior, transactions, support interactions, and engagement patterns.
 The goal is to help businesses identify customers who are at risk of leaving and improve customer retention strategies.
