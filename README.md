@@ -62,7 +62,7 @@ Generate visual dashboards
 
 Automate email alerts for high-risk customers
 
-#📞 Contact
+# 📞 Contact
 
 If you have any questions or need help, feel free to contact:
 
